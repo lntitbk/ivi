@@ -1,0 +1,15 @@
+<p>image-live works!</p>
+<div >
+    {{isCamera}}
+    <div>
+        <video #cam></video>
+        <canvas #view></canvas>
+    </div>
+    <div>
+        <button (click)="takePhoto()">take photo</button>
+        <button (click)="uploadPhoto()">Upload</button>
+        <button (click)="sendSMS()">sms</button>
+    </div>    
+</div>
+
+

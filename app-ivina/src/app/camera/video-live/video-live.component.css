@@ -1,0 +1,24 @@
+#container {
+    height: 400px;
+    width: 500px;
+    /* width: 100%; */
+    position: relative;
+    /* background-color: aquamarine;  */
+}
+#cam {
+    /* background-color: burlywood; */
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    margin: 0%;
+    padding: 0;
+}
+
+#you {
+    background-color: chartreuse;
+    position: absolute;
+    top: 70%;
+    left: 80%;
+    height: 30%;
+    width: 20%;
+}

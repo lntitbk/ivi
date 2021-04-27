@@ -1,0 +1,13 @@
+#map {
+    height: 100%;
+}
+.zsg-icon-for-rent:before {
+    background: #FF5A50;
+    border-radius: 50%;
+    content: "";
+    height: 1em;
+    width: 1em;
+    display: inline-block;
+  }
+
+  /* span.className = "ds-status-icon zsg-icon-for-rent"; */
